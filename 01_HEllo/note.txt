@@ -1,0 +1,10 @@
+=> What i  Lean
+
+    -> Basic Stricture
+    -> Comment
+    -> Input / output
+    -> Variable
+    -> Datatype
+    -> Operator
+        -> Math Function
+        -> String 
