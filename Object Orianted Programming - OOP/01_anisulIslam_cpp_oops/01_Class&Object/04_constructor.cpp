@@ -17,15 +17,28 @@ public:
         id = x;
         gpa = y;
     }
+
+    Student(int x, double y) //-> Constructor
+    {
+        id = x;
+        gpa = y;
+    }
+
+    Student() //-> Default Constructor
+    {
+        cout << "Default Constructor" << endl;
+    };
 };
 
 int main()
 {
-    Student shanto, liza;
-    shanto.setValue(101, 3.4);
+    Student ob; //-> Default Constructor
+    Student shanto(101, 3.4);
+    // shanto.setValue(101, 3.4);
     shanto.display();
 
-    liza.setValue(103, 3.8);
+    Student liza(103, 3.8);
+    // liza.setValue(103, 3.8);
     liza.display();
 
     return 0;

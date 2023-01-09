@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1673232980 source:f:\programming\c++ course\prcatice\02_cpp_basic\object orianted programming - oop\01_anisulislam_cpp_oops\01_class&object\classinseparatefile\myfirstproject\main.cpp
+	<iostream>
+	"myfirstclass.h"
+
+1673232862 f:\programming\c++ course\prcatice\02_cpp_basic\object orianted programming - oop\01_anisulislam_cpp_oops\01_class&object\classinseparatefile\myfirstproject\myfirstclass.h
+	"myfirstclass.h"
+

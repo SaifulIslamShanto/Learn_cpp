@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1673234836 source:f:\programming\c++ course\prcatice\02_cpp_basic\object orianted programming - oop\01_anisulislam_cpp_oops\01_class&object\classinseparatefile\practiceclass\main.cpp
+	<iostream>
+	"helloclass.h"
+
+1673234813 f:\programming\c++ course\prcatice\02_cpp_basic\object orianted programming - oop\01_anisulislam_cpp_oops\01_class&object\classinseparatefile\practiceclass\helloclass.h
+	"helloclass.h"
+
