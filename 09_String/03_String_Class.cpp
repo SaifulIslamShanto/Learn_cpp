@@ -2,6 +2,8 @@
 #include <string>
 using namespace std;
 
+//-> String Class
+
 int main()
 {
     string str_1 = "Saiful islam";
